@@ -1,2 +1,4 @@
 tools
 scss/.sass-cache
+.idea
+*.DS_Store

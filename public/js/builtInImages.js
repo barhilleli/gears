@@ -349,4 +349,9 @@ BUILT_IN_IMAGES = [
     type: 'robot',
     description: 'Sample image showing the position and orientation of the image texture'
   },
+  {
+    url: '_barh/images/grid_1x20.png',
+    type: 'ground',
+    description: 'barh_grid_1x20'
+  },
 ];
