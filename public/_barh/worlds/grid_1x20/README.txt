@@ -1,0 +1,1 @@
+Each square is 22 cm

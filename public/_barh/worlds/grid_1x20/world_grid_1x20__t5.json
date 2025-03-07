@@ -1,0 +1,73 @@
+{
+  "worldName": "custom",
+  "options": {
+    "imageURL": "_barh/images/grid_1x20.png",
+    "groundType": "box",
+    "length": 100,
+    "width": 100,
+    "uScale": 1,
+    "vScale": 1,
+    "imageScale": 1.57,
+    "timer": "none",
+    "timerDuration": 60,
+    "timerEnd": "continue",
+    "wall": false,
+    "wallHeight": 7.7,
+    "wallThickness": 4.5,
+    "wallColor": "#1A1A1A",
+    "groundFriction": 1,
+    "wallFriction": 0.1,
+    "groundRestitution": 0,
+    "wallRestitution": 0.1,
+    "restartAnimationOnRun": false,
+    "objects": [
+      {
+        "type": "model",
+        "position": [
+          -110,
+          28,
+          18.447440922260284
+        ],
+        "rotationMode": "degrees",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "animationMode": "none",
+        "animationKeys": [],
+        "size": [
+          10,
+          10,
+          10
+        ],
+        "modelURL": "models/Kenny.nl - Characters/alienA_large.glb",
+        "modelScale": 12,
+        "modelAnimation": "Wave",
+        "color": "#80E680",
+        "imageType": "sphere",
+        "imageURL": "",
+        "uScale": 1,
+        "vScale": 1,
+        "physicsOptions": "fixed",
+        "magnetic": false,
+        "laserDetection": null,
+        "ultrasonicDetection": null,
+        "receiveShadows": true,
+        "castShadows": false,
+        "isPickable": true
+      }
+    ],
+    "startPos": "center",
+    "startPosXYZStr": "",
+    "startRotStr": "",
+    "startPosXYZ": [
+      -219.5,
+      -29,
+      0
+    ],
+    "startRot": null,
+    "arenaStartPosXYZ": null,
+    "arenaStartRot": null
+  }
+}
